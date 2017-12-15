@@ -1,0 +1,16 @@
+body { 
+	padding-top: 70px; 
+}
+
+.panel-heading {
+    padding: 0;
+}
+
+#img_panel_explorateur {
+	width: 100%;
+	vertical-align:middle;
+}
+#img_panel_ico {
+	width: 100%;
+	vertical-align: middle;
+}
