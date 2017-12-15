@@ -16,20 +16,20 @@ section{
   background-color: #222222;
 }
 .yellow {
-    color: #f0ad4e;
+    color: #FFD700 ;
 }
 .panel {
     background-color: #eeeeee;
 
 }
-.panel-primary {
-    border-color: #337ab7;
-    background-color: #337ab7;
+.panel-red {
+    border-color: #ab2522;
+    background-color: #ab2522;
 
 }
 .panel-yellow {
-	border-color: #f0ad4e;
-    background-color: #f0ad4e;
+	border-color: #FFD700 ;
+    background-color: #FFD700 ;
 }
 .panel-heading {
 	color: #fff;
@@ -38,7 +38,7 @@ section{
 	color: #169200;
 }
 .fa-caret-down{
-	color: #C20000;
+	color: #ff0000;
 }
 .fa-eur {
 	padding-top: 2px;
